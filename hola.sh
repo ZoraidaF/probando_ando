@@ -1,3 +1,0 @@
-#Ejercicio
-
-echo Hola mundo
